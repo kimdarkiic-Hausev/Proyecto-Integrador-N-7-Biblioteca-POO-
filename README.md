@@ -1,5 +1,5 @@
 
-**📚 Proyecto Integrador: Gestión de Biblioteca**
+##**📚 Proyecto Integrador: Gestión de Biblioteca**
 
 
 
@@ -32,13 +32,4 @@ El desarrollo se organizó de manera colaborativa aplicando los principios de la
 
  **📁 Estructura del Repositorio**
 
-├── codigo/
-│   ├── subgrupo1_prestamo_socio/      <-- Clases: Prestamo, Socio
-│   ├── subgrupo2_estudiante_docente/  <-- Clases: Estudiante, Docente
-│   ├── subgrupo3_libro/               <-- Clase: Libro
-│   ├── subgrupo4_biblioteca/          <-- Clase: Biblioteca
-│   └── gestion_biblioteca/            <-- Clase principal: GestionBiblioteca
-│
-└── documentos/
-    ├── Ficha_Autoevaluacion.pdf       <-- Autoevaluación del equipo
-    └── Capturas_Trello.pdf            <-- Documentación de Trello
+├<img width="543" height="216" alt="image" src="https://github.com/user-attachments/assets/88e85211-9ae1-4f16-b02b-f9236c337149" />
