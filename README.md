@@ -1,5 +1,4 @@
-
-##**📚 Proyecto Integrador: Gestión de Biblioteca**
+# 📚 Proyecto Integrador: Gestión de Biblioteca
 
 
 
